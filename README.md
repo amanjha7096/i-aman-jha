@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Jha</h1>
-<h3 align="center">A passionate flutter developer and Competitive programmer.</h3>
+<h3 align="center">A passionate Flutter developer and Competitive programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanjha7096&label=Profile%20views&color=0e75b6&style=flat" alt="amanjha7096" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanjha7096" target="blank"><img src="https://img.shields.io/twitter/follow/amanjha7096?logo=twitter&style=for-the-badge" alt="amanjha7096" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **App Development**
 
